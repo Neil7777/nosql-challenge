@@ -79,7 +79,7 @@ Some notes to be aware of while you are exploring the dataset:
 - The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
 Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors.
 
-#### Unless otherwise stated, for each question:
+### Unless otherwise stated, for each question:
 
     - Use count_documents to display the number of documents contained in the result.
 
